@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Gagana 👋
 
-<!--
-**gaganat-collab/gaganat-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PGDM student in AI & Data Science with a background in Hospital and Health System Management.
 
-Here are some ideas to get you started:
+I'm interested in applying data analytics, machine learning, and AI to solve real-world healthcare problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills & Technologies
+- Python, SQL, MySQL
+- Pandas, Scikit-learn
+- FastAPI, Streamlit
+- Power BI, Excel
+
+### Featured Projects
+- Heart Disease Prediction – Machine Learning and MLOps
+- Student Management Database – SQL and Data Analysis
+- Brain MRI Analysis – AI-based Tumor Identification (in progress)
+
+I'm continuously learning and building projects that combine healthcare knowledge with data-driven problem solving.
